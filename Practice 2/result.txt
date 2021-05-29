@@ -1,0 +1,4 @@
+	Train_Time	Test_Time	Train_Accuracy	Test_Accuracy
+task3	7.964	0.011	99.980	100.000
+task2	3.339	0.011	99.980	100.000
+task1	2.946	0.036	99.970	100.000
